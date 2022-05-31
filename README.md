@@ -19,3 +19,8 @@ Alvin Kuo's Portfolio as Data Scientist &amp; AI/ML Engineer
 [**Project 4: Decision Tree and Random Forest to Classify Education Tech Potential Customers** - Classification](https://github.com/beethofen/Alvin_Kuo_Portfolio/blob/main/Alvin_Kuo_Portfolio_Classification_Decision_Tree_Random_Forest_Predicting_Potential_Customers.ipynb)
 >
 <img src="https://github.com/beethofen/images/blob/47a38bfa364385708cdd54c05e6d7e85bda7be1d/Screen%20Shot%202022-05-30%20at%207.40.37%20PM.png" width="600">
+
+>
+[**Project 5: K-Means, Gaussian Mixature & K-Medoids to Cluster Credit Card Customers** - Classification](https://github.com/beethofen/Alvin_Kuo_Portfolio/blob/main/Alvin_Kuo_Portfolio_Clustering_K-Mean_Unsupervised_Learning_Classification_Credit_Card_Customer.ipynb)
+>
+<img src="https://github.com/beethofen/images/blob/f1d312e62baf67acb67b5d751f204ef827c17af7/Screen%20Shot%202022-05-30%20at%208.09.37%20PM.png" width="600">

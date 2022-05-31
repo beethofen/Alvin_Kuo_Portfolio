@@ -8,7 +8,6 @@ Alvin Kuo's Portfolio as Data Scientist &amp; AI/ML Engineer
 >
 <img src="https://github.com/beethofen/images/blob/5b540793d2a44ed772c24fc561ebec0f57ade948/Screen%20Shot%202022-05-10%20at%201.41.30%20AM.png" width="600">
 >
-[**Project 3: Linear Regression to Predict Houston Housing Price**]
-(https://github.com/beethofen/Alvin_Kuo_Portfolio/blob/main/Alvin_Kuo_Portfolio_Project_Linear_Regression_Boston_Housing_Pricing.ipynb)
+[**Project 3: Linear Regression to Predict Houston Housing Price**](https://github.com/beethofen/Alvin_Kuo_Portfolio/blob/main/Alvin_Kuo_Portfolio_Project_Linear_Regression_Boston_Housing_Pricing.ipynb)
 >
 <img src="https://github.com/beethofen/images/blob/5b540793d2a44ed772c24fc561ebec0f57ade948/Screen%20Shot%202022-05-10%20at%201.41.30%20AM.png" width="600">

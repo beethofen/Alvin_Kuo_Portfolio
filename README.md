@@ -44,3 +44,8 @@ Alvin Kuo's Portfolio as Data Scientist &amp; AI/ML Engineer
 [**Project 9: ANN to Recognize Street View Housing Numbers** - Deep Learing](https://github.com/beethofen/Alvin_Kuo_Portfolio/blob/main/Alvin_Kuo_Portfolio_ANN_Street_View_Housing_Numbers_Image_Classification_Deep_Learning.ipynb)
 >
 <img src="https://github.com/beethofen/images/blob/8ef0aeca2e61c9c6954b00109c0be45a0b0ed1e7/Screen%20Shot%202022-05-31%20at%2011.28.37%20AM.png" width="600">
+
+>
+[**Project 10: CNN to Recognize Street View Housing Numbers** - Deep Learing](https://github.com/beethofen/Alvin_Kuo_Portfolio/blob/main/Alvin_Kuo_Portfolio_CNN_Street_View_Housing_Numbers_Deep_Learning.ipynb)
+>
+<img src="https://github.com/beethofen/images/blob/b5c77cdf0f6c61e839e4f1381b76039e33aed8b6/Screen%20Shot%202022-05-31%20at%2011.51.17%20AM.png" width="600">

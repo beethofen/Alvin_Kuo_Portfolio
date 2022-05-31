@@ -24,3 +24,8 @@ Alvin Kuo's Portfolio as Data Scientist &amp; AI/ML Engineer
 [**Project 5: K-Means, Gaussian Mixature & K-Medoids to Cluster Credit Card Customers** - Classification](https://github.com/beethofen/Alvin_Kuo_Portfolio/blob/main/Alvin_Kuo_Portfolio_Clustering_K-Mean_Unsupervised_Learning_Classification_Credit_Card_Customer.ipynb)
 >
 <img src="https://github.com/beethofen/images/blob/f1d312e62baf67acb67b5d751f204ef827c17af7/Screen%20Shot%202022-05-30%20at%208.09.37%20PM.png" width="600">
+
+>
+[**Project 6: AR, MA, ARMA & ARIMA to Predict Amazon Stock Price** - Time Series](https://github.com/beethofen/Alvin_Kuo_Portfolio/blob/main/Alvin_Kuo_Portfolio_AR_MA_ARMA_ARIMA_Time_Series_Forecast_Amazon_Stock_Price.ipynb)
+>
+<img src="https://github.com/beethofen/images/blob/b137ed80b1fcaff4e0ad75b50b5351f6c2dc9c4a/Screen%20Shot%202022-05-30%20at%208.40.57%20PM.png" width="600">

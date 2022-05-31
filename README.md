@@ -29,3 +29,8 @@ Alvin Kuo's Portfolio as Data Scientist &amp; AI/ML Engineer
 [**Project 6: AR, MA, ARMA & ARIMA to Predict Amazon Stock Price** - Time Series](https://github.com/beethofen/Alvin_Kuo_Portfolio/blob/main/Alvin_Kuo_Portfolio_AR_MA_ARMA_ARIMA_Time_Series_Forecast_Amazon_Stock_Price.ipynb)
 >
 <img src="https://github.com/beethofen/images/blob/b137ed80b1fcaff4e0ad75b50b5351f6c2dc9c4a/Screen%20Shot%202022-05-30%20at%208.40.57%20PM.png" width="600">
+
+>
+[**Project 7: Item-to-Item to Recommend Amazon Users** - Recommendation System](https://github.com/beethofen/Alvin_Kuo_Portfolio/blob/main/Alvin_Kuo_Portfolio_Item_to_item_Amazon_Recommendation_System.ipynb)
+>
+<img src="https://github.com/beethofen/images/blob/c4d83b2cf70c5ea07abb316ff1814cda408ad53b/Screen%20Shot%202022-05-31%20at%2012.08.41%20AM.png" width="600">

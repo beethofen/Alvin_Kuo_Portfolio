@@ -5,7 +5,7 @@ Alvin Kuo's Portfolio as Data Scientist &amp; AI/ML Engineer
 >
 <img src="https://github.com/beethofen/images/blob/2b9d01fa0c4609c3bdf2ae43bfd3a968439aea74/Screen%20Shot%202022-05-10%20at%2012.30.13%20AM.png" width="600">
 
-[**Project 2: Hackathon_101_How_to_Build a Simple and Best CNN Model** -  CNN](https://github.com/beethofen/Alvin_Kuo_Portfolio/blob/dd68ed7e9afe1e060d8b4e8f672d2bed688bb159/Alvin_Kuo_Portfolio_Project_Hackathon_101_How_to_Prepare_Libraries_Efficiently.ipynb)
+[**Project 2: Hackathon_101_How_to_Build a Simple and Best CNN Model** -  CNN](https://github.com/beethofen/Alvin_Kuo_Portfolio/blob/dd68ed7e9afe1e060d8b4e8f672d2bed688bb159)
 >
 <img src="https://github.com/beethofen/images/blob/1bbe8b010f5f261515bbbcb971b81c8773fcd045/Screen%20Shot%202022-06-05%20at%204.23.04%20PM.png" width="600">
 

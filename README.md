@@ -5,7 +5,7 @@ Alvin Kuo's Portfolio as Data Scientist &amp; AI/ML Engineer
 >
 <img src="https://github.com/beethofen/images/blob/2b9d01fa0c4609c3bdf2ae43bfd3a968439aea74/Screen%20Shot%202022-05-10%20at%2012.30.13%20AM.png" width="600">
 
-[**Project 2: Hackathon_101_How_to_Import_Library_Efficiently** -  Pyforest](https://github.com/beethofen/Hackathon_MIT_ADSP_Shinkansen/blob/main/Alvin_Kuo_Portfolio_Project_Hackathon_101_How_to_Prepare_Libraries_Efficiently.ipynb)
+[**Project 2: Hackathon_101_How_to_Import_Library_Efficiently** -  Pyforest](https://github.com/beethofen/Alvin_Kuo_Portfolio/blob/dd68ed7e9afe1e060d8b4e8f672d2bed688bb159/Alvin_Kuo_Portfolio_Project_Hackathon_101_How_to_Prepare_Libraries_Efficiently.ipynb)
 >
 <img src="https://github.com/beethofen/images/blob/710e090890ddcf6ce4e21d1dffa5c564a873a094/Screen%20Shot%202022-06-05%20at%2011.12.14%20AM.png" width="600">
 

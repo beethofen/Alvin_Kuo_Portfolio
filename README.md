@@ -1,7 +1,7 @@
 # Alvin_Kuo_Portfolio
 Alvin Kuo's Portfolio as Data Scientist &amp; AI/ML Engineer
 
-[**Project 1: Classificatoin Project in Hackathon as Top 7th Place Top Hacker** -  Customer Experiences (EDA, Ensemble, ANN & More)](https://github.com/beethofen/Hackathon_MIT_ADSP_Shinkansen/blob/main/Hackathon_BetaMindz_Final.ipynb)
+[**Project 1: Classificatoin Project in Hackathon as Top 7th Place Top Hacker** -  Customer Experiences (EDA, Ensemble, ANN & More)](https://github.com/beethofen/Alvin_Kuo_Portfolio/blob/e391d1094a3d18175950f961dc2157fc0353af00/Hackathon_Final.ipynb)
 >
 <img src="https://github.com/beethofen/images/blob/2b9d01fa0c4609c3bdf2ae43bfd3a968439aea74/Screen%20Shot%202022-05-10%20at%2012.30.13%20AM.png" width="400">
 

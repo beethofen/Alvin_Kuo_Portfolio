@@ -36,28 +36,21 @@ Alvin Kuo's Portfolio as Data Scientist &amp; AI/ML Engineer
 
 >
 [**Project 9: Exploratory Data Analysis to Analyze Promotion** - Exploratory Data Aanalysis]
->
-<img src="https://github.com/beethofen/images/blob/ce290eedb2cc72085f7f978ed775b77788240f4d/Screen%20Shot%202022-05-31%20at%2011.36.11%20PM.png" width="400">
 
 >
 [**Project 10: PCA and tSNE to Reduce Dimensionality of Environmetnal Factors Features** - Visualization]
 >
-<img src="https://github.com/beethofen/images/blob/1f8ed30a2ad30268270937cc5645894737a57d7f/Screen%20Shot%202022-05-31%20at%208.43.54%20AM.png" width="400">
 
 >
 [**Project 11: Linear Regression to Predict Houston Housing Price** - Linear Progression]
->
-<img src="https://github.com/beethofen/images/blob/c81703564b9175b2a990b603abe9692b898367db/Screen%20Shot%202022-05-30%20at%205.55.26%20PM.png" width="400">
 
 >
 [**Project 12: Decision Tree and Random Forest to Classify Ecommerce Potential Customers** - Classification]
 >
-<img src="https://github.com/beethofen/images/blob/47a38bfa364385708cdd54c05e6d7e85bda7be1d/Screen%20Shot%202022-05-30%20at%207.40.37%20PM.png" width="400">
 
 >
 [**Project 13: K-Means, Gaussian Mixature & K-Medoids to Cluster Banking Industry Customers** - Classification]
 >
-<img src="https://github.com/beethofen/images/blob/f1d312e62baf67acb67b5d751f204ef827c17af7/Screen%20Shot%202022-05-30%20at%208.09.37%20PM.png" width="400">
 
 >
 [**Project 14: AR, MA, ARMA & ARIMA to Predict Tech Stock Price** - Time Series]
@@ -67,7 +60,6 @@ Alvin Kuo's Portfolio as Data Scientist &amp; AI/ML Engineer
 >
 [**Project 15: Item-to-Item to Recommend Music Users** - Recommendation System]
 >
-<img src="https://github.com/beethofen/images/blob/c4d83b2cf70c5ea07abb316ff1814cda408ad53b/Screen%20Shot%202022-05-31%20at%2012.08.41%20AM.png" width="400">
 
 >
 [**Project 16: ANN to Recognize Sign Numbers** - Deep Learing]

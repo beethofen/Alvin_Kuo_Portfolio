@@ -5,7 +5,11 @@ Alvin Kuo's Portfolio as Data Scientist &amp; AI/ML Engineer
 >
 <img src="https://github.com/beethofen/images/blob/9d2a9276dbe4e16f724382355bd791723470c7ce/Screenshot%202024-02-14%20at%2012.59.13%20AM.png" width="400">
 
-[Project: 14M-datapoint Education Project for SMOTE solutions of imbalanced dataset](https://github.com/beethofen/Alvin_Kuo_Portfolio/blob/eeae10da8cc326bd0cb7121070a16fae0c58a2c8/Alvin%20Kuo%20Portfolio%20Education.pdf)
+[Project: Image Detection Classification Capstone Project with 99% Accuracy** - 14-model Image Detection (ANN, CNN, Transfer Learning & More)]
+>
+<img src="https://github.com/beethofen/images/blob/5b540793d2a44ed772c24fc561ebec0f57ade948/Screen%20Shot%202022-05-10%20at%201.41.30%20AM.png" width="400">
+
+[Project: 14M-datapoint Education Project for SMOTE solutions of the imbalanced dataset](https://github.com/beethofen/Alvin_Kuo_Portfolio/blob/eeae10da8cc326bd0cb7121070a16fae0c58a2c8/Alvin%20Kuo%20Portfolio%20Education.pdf)
 >
 <img src="https://github.com/beethofen/images/blob/5d7f0dca1db830c5b19857c3f6f8b140f550a841/Education.png" width="400">
 
@@ -44,11 +48,6 @@ Alvin Kuo's Portfolio as Data Scientist &amp; AI/ML Engineer
 [**Project: Hackathon 101 How to Apply VGG19 Pre-trained Model** -  Transfer Learning](https://github.com/beethofen/Alvin_Kuo_Portfolio/blob/a1a55c511bacc12880af7edecfbfd7b9e444dd36/Alvin_Kuo_Portfolio_Project_101_How_to_Apply_VGG19_Model_Github.ipynb)
 >
 <img src="https://github.com/beethofen/images/blob/7da343b7f07ade2223589052266c76915ebd5f46/Screen%20Shot%202022-06-07%20at%2011.49.27%20PM.png" width="400">
-
->
-[**Project: Image Detection Classification Capstone Project with 99% Accuracy** - 14-model Image Detection (ANN, CNN, Transfer Learning & More)]
->
-<img src="https://github.com/beethofen/images/blob/5b540793d2a44ed772c24fc561ebec0f57ade948/Screen%20Shot%202022-05-10%20at%201.41.30%20AM.png" width="400">
 
 >
 [**Project: AR, MA, ARMA & ARIMA to Predict Tech Stock Price** - Time Series]

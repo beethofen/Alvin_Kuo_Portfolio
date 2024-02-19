@@ -5,7 +5,7 @@ Alvin Kuo's Portfolio as Data Scientist &amp; AI/ML Engineer
 >
 <img src="https://github.com/beethofen/images/blob/9d2a9276dbe4e16f724382355bd791723470c7ce/Screenshot%202024-02-14%20at%2012.59.13%20AM.png" width="400">
 
-[**Project: 14M-datapoint Education Project for SMOTE solutions of imbalanced dataset](https://github.com/beethofen/Alvin_Kuo_Portfolio/blob/eeae10da8cc326bd0cb7121070a16fae0c58a2c8/Alvin%20Kuo%20Portfolio%20Education.pdf))
+[**Project: 14M-datapoint Education Project for SMOTE solutions of imbalanced dataset](https://github.com/beethofen/Alvin_Kuo_Portfolio/blob/eeae10da8cc326bd0cb7121070a16fae0c58a2c8/Alvin%20Kuo%20Portfolio%20Education.pdf)
 >
 <img src="https://github.com/beethofen/images/blob/5d7f0dca1db830c5b19857c3f6f8b140f550a841/Education.png" width="400">
 

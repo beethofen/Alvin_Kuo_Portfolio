@@ -37,7 +37,7 @@ Alvin Kuo's Portfolio as Data Scientist &amp; AI/ML Engineer
 >
 <img src="https://github.com/beethofen/images/blob/db724f4039427eb4a8a0968352c334c58d7aa366/Screen%20Shot%202022-06-07%20at%2011.39.01%20PM.png" width="400">
 
-[**Project 6: Hackathon 101 How to Import Library Efficiently** -  Pyforest](https://github.com/beethofen/Alvin_Kuo_Portfolio/blob/a1a55c511bacc12880af7edecfbfd7b9e444dd36/Alvin_Kuo_Capstone_Notebook_Deep_Learning_CNN_99%25_Github.html)
+[**Project: Hackathon 101 How to Import Library Efficiently** -  Pyforest](https://github.com/beethofen/Alvin_Kuo_Portfolio/blob/a1a55c511bacc12880af7edecfbfd7b9e444dd36/Alvin_Kuo_Capstone_Notebook_Deep_Learning_CNN_99%25_Github.html)
 >
 <img src="https://github.com/beethofen/images/blob/710e090890ddcf6ce4e21d1dffa5c564a873a094/Screen%20Shot%202022-06-05%20at%2011.12.14%20AM.png" width="400">
 
@@ -49,24 +49,6 @@ Alvin Kuo's Portfolio as Data Scientist &amp; AI/ML Engineer
 [**Project: Image Detection Classification Capstone Project with 99% Accuracy** - 14-model Image Detection (ANN, CNN, Transfer Learning & More)]
 >
 <img src="https://github.com/beethofen/images/blob/5b540793d2a44ed772c24fc561ebec0f57ade948/Screen%20Shot%202022-05-10%20at%201.41.30%20AM.png" width="400">
-
->
-[**Project: Exploratory Data Analysis to Analyze Promotion** - Exploratory Data Aanalysis]
-
->
-[**Project: PCA and tSNE to Reduce Dimensionality of Environmetnal Factors Features** - Visualization]
->
-
->
-[**Project: Linear Regression to Predict Houston Housing Price** - Linear Progression]
-
->
-[**Project: Decision Tree and Random Forest to Classify Ecommerce Potential Customers** - Classification]
->
-
->
-[**Project: K-Means, Gaussian Mixature & K-Medoids to Cluster Banking Industry Customers** - Classification]
->
 
 >
 [**Project: AR, MA, ARMA & ARIMA to Predict Tech Stock Price** - Time Series]
@@ -86,3 +68,22 @@ Alvin Kuo's Portfolio as Data Scientist &amp; AI/ML Engineer
 [**Project: CNN to Recognize Sign Numbers** - Deep Learing]
 >
 <img src="https://github.com/beethofen/images/blob/b5c77cdf0f6c61e839e4f1381b76039e33aed8b6/Screen%20Shot%202022-05-31%20at%2011.51.17%20AM.png" width="400">
+
+>
+[**Project: Exploratory Data Analysis to Analyze Promotion** - Exploratory Data Analysis]
+
+>
+[**Project: PCA and tSNE to Reduce Dimensionality of Environmental Factors Features** - Visualization]
+>
+
+>
+[**Project: Linear Regression to Predict Houston Housing Price** - Linear Progression]
+
+>
+[**Project: Decision Tree and Random Forest to Classify E-commerce Potential Customers** - Classification]
+>
+
+>
+[**Project: K-Means, Gaussian Mixature & K-Medoids to Cluster Banking Industry Customers** - Classification]
+>
+

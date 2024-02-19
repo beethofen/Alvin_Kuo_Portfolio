@@ -5,7 +5,7 @@ Alvin Kuo's Portfolio as Data Scientist &amp; AI/ML Engineer
 >
 <img src="https://github.com/beethofen/images/blob/9d2a9276dbe4e16f724382355bd791723470c7ce/Screenshot%202024-02-14%20at%2012.59.13%20AM.png" width="400">
 
-[Project: Image Detection Classification Capstone Project with 99% Accuracy - 14-model Image Detection(ANN, CNN, Transfer Learning & More)](https://github.com/beethofen/Alvin_Kuo_Portfolio/blob/bcdcab313ae720d49ffc92868150cd537397e611/Alvin%20Kuo%20Medical.pdf)
+[Project: Image Detection Classification Capstone Project with 99% Accuracy - 14-model Image Detection(ANN, CNN, VGG, DenseNet, ResNet, Augmentation, and Transfer Learning)](https://github.com/beethofen/Alvin_Kuo_Portfolio/blob/bcdcab313ae720d49ffc92868150cd537397e611/Alvin%20Kuo%20Medical.pdf)
 >
 <img src="https://github.com/beethofen/images/blob/5b540793d2a44ed772c24fc561ebec0f57ade948/Screen%20Shot%202022-05-10%20at%201.41.30%20AM.png" width="400">
 

@@ -5,6 +5,9 @@ Alvin Kuo's Portfolio as Data Scientist &amp; AI/ML Engineer
 >
 <img src="https://github.com/beethofen/images/blob/9d2a9276dbe4e16f724382355bd791723470c7ce/Screenshot%202024-02-14%20at%2012.59.13%20AM.png" width="400">
 
+[**Project: Music Collaboration Project as a mini RAG with Potential Vector Database Application** -  LLMs with LangChain Management and Streamlit as Interface](https://github.com/beethofen/Alvin_Kuo_Portfolio/blob/5c148e3c27cbd057215e7ce3eb12f178f498b0a5/Music%20Project.pdf)
+>
+<img src="https://github.com/beethofen/images/blob/9d2a9276dbe4e16f724382355bd791723470c7ce/Screenshot%202024-02-14%20at%2012.59.13%20AM.png" width="400">
 
 [**Project: Classificatoin Project in Hackathon as Top 7th Place Top Hacker** -  Customer Experiences (EDA, Ensemble, ANN & More)](https://github.com/beethofen/Alvin_Kuo_Portfolio/blob/03a89abc575394ff61f3e434a9500363d176e22b/Hackathon_BetaMindz_Final.ipynb)
 >
